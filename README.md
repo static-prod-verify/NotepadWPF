@@ -1,4 +1,4 @@
-# .NETpad (C#/WPF version) - Try test 1
+# .NETpad (C#/WPF version) - Try test 2
 
 ![.NETpad hero image](/hero.jpg)
 
